@@ -36,15 +36,21 @@ So what i basically did was took all 100 of them and catogrized them into 2 part
 **Security Frameworks, Vulnerability Management, and Compliance**
 
 
-Part 2 : Practical Training and Hands-On Demonstration
+**Part 2 : Practical Training and Hands-On Demonstration**
 
-Domain 1: Network Traffic Analysis and Protocol Inspection
-Domain 2: SIEM Operations and Log Correlation
-Domain 3: Memory Forensics and Advanced Endpoint Triage
-Domain 4: Web Application Vulnerability Exploitation
-Domain 5: Container Hardening and DevSecOps
-Domain 6: Cryptographic Verification and Active Directory
-Domain 7: Incident Response and Tabletop Exercises
+**Domain 1: Network Traffic Analysis and Protocol Inspection**
+
+**Domain 2: SIEM Operations and Log Correlation**
+
+**Domain 3: Memory Forensics and Advanced Endpoint Triage**
+
+**Domain 4: Web Application Vulnerability Exploitation**
+
+**Domain 5: Container Hardening and DevSecOps**
+
+**Domain 6: Cryptographic Verification and Active Directory**
+
+**Domain 7: Incident Response and Tabletop Exercises**
 
 
 My aim throughout this is getting a very strong idea of SOC during the time i make this Book. It will allow me to search for the anwers and writing them into understandable ways, which will result in an excellent knowledge in the Defense area of cybersecurity.
