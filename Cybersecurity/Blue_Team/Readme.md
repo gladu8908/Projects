@@ -8,3 +8,5 @@ So what is the best way to learn them all at the same time create something of a
 Sure i was learning through youtube and other courses, but it wasn't enought this time.
 
 Which brings me to this project.
+
+**Project interview**
