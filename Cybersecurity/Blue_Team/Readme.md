@@ -36,6 +36,8 @@ So what i basically did was took all 100 of them and catogrized them into 2 part
 **Security Frameworks, Vulnerability Management, and Compliance**
 
 
+
+
 **Part 2 : Practical Training and Hands-On Demonstration**
 
 **Domain 1: Network Traffic Analysis and Protocol Inspection**
